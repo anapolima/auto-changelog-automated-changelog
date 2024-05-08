@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/anapolima/auto-changelog-automated-changelog/compare/v1.2.0...v2.0.0) (2024-05-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Breaking change
+
+### Features
+
+* Breaking change ([e589dec](https://github.com/anapolima/auto-changelog-automated-changelog/commit/e589dec490ac238d662a4803e1ba538fa809bfb9))
+
 ## [1.2.0](https://github.com/anapolima/auto-changelog-automated-changelog/compare/v1.1.0...v1.2.0) (2024-05-08)
 
 
